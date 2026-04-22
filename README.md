@@ -227,3 +227,7 @@ For cluster jobs, write long-lived artifacts to your configured scratch director
 ## License
 
 No explicit license file is currently included. Add one before external redistribution.
+
+## Data Access
+
+Historical TTF data was sourced using a commercial ICE license. A commercial license is required access historical TTF market data.
